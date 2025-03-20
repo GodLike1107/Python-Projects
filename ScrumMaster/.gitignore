@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+# Python virtual environment
+Scripts/
+Lib/
+pyvenv.cfg
+
+# PyCharm project files
+.idea/
+
+# Environment variables
+.env
+
+# Pickle files (if you don't want to track them)
+*.pkl
